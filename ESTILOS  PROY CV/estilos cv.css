@@ -1,0 +1,13 @@
+/**le puse la mejor voluntad a este proyecto, les agradesco y prometo mejorar los desarrollos*/
+body{background-color: grey}
+h1,h2,footer {color: white; background-color: rgb(44, 163, 90);}
+h3 {background-color: silver; border: 1px solid gold;}
+*{font-family: 'Roboto', sans-serif;
+font-family: 'Tilt Warp', cursive;}
+*{color: black;}
+.mi_imagen {margin-left: 70px; border: 1px solid gold;}
+.enviar {color: brown;}
+section { width: 400px;
+          border: solid 1px gold; 
+          padding: 10px;
+          margin-left: 435px; background-color: rgb(44, 163, 90);}
